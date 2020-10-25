@@ -10,4 +10,3 @@ editing and creating new files
 2. open repository githubtest.
 3. open file bubblesort.py
 4. check it once.
-
